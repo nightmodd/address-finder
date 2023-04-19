@@ -3,7 +3,7 @@ import axios from "axios";
 const form = document.querySelector("form")!;
 const addressInput = document.getElementById("address")! as HTMLInputElement;
 
-const GOOGLE_API_KEY = "AIzaSyDyDakvivB9a8wAzX3nPmhndpgfnKWAKnY";
+const GOOGLE_API_KEY = "AIzaSyAJBSUfEjTN5iyL0nMbiEhESKwCBfxxN4w";
 
 
 //to aovid error of not having a type for the response
